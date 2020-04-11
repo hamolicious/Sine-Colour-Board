@@ -1,5 +1,5 @@
 # Sine-Colour-Board
-A board that smoothly changes colour using the sine function
+A board that smoothly changes colour using the sine function, was quite bored so I made this :)
 
 <strong>Required</strong><br>
 Python 2.7-3.8<br>
